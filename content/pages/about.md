@@ -1,6 +1,7 @@
 +++
-title = "About"
+title = "About Me"
 path = "about"
+description = "This is what I do"
 template = "about.html"
 +++
 
